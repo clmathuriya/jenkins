@@ -24,9 +24,9 @@ and run
 
 - create emulator
 - get list of available anddroid targets and abis
-''' android list targets ```
+``` android list targets ```
 - create emulator with latest android target
-''' android create avd -n test -t android-24 --sdcard 512M --abi default/x64 '''
+``` android create avd -n test -t android-24 --sdcard 512M --abi default/x64 ```
 - start emulator 
 ``` emulator avd test --no-window --no-skin ```
 
