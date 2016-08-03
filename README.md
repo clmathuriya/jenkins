@@ -31,7 +31,7 @@ and run
 ``` emulator -avd test --no-window ```
 
 ###Running Appium tests###
-
-``` run mvn clean install ```
+- clone [Appium examples ] (https://github.com/clmathuriya/appium-examples/blob/master/README.md) and run 
+```mvn clean install ```
 
 
